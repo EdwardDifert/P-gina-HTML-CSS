@@ -1,0 +1,187 @@
+
+
+
+body {
+    background-color: rgb(26, 41, 255);
+    font-size:30px;
+   
+    
+    
+
+
+
+}
+
+*{
+    margin:0;
+    padding:0;
+  
+}
+
+
+.header {
+     
+    font-size:30px;
+    background-color: rgb(255, 251, 14);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 5px rgb(4, 255, 213);
+    
+   
+    
+  }
+
+ 
+
+  .border {
+
+    border:6px groove blue;
+    margin:0px 200px;
+}
+
+.div-cabeçalho {
+    
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+.div-img {
+    width:200px;
+    border-style: groove;
+    border-color:rgb(71, 64, 64); 
+    border-width:3px;
+}
+
+
+
+
+h1 {
+
+        text-align:center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2 {
+    text-align:center;
+    color:rgb(22, 255, 255);
+    font-size:2em;
+    text-shadow: 2px 2px 3px rgb(3, 3, 3);
+    border:4px ridge rgb(27, 233, 233);
+    margin: 0px 400px;
+    font-family:cursive;
+    }
+
+   
+
+.escrita-porcos {
+    
+    float:inherit;
+    width:70%;
+    padding-top:10px;
+    padding-bottom: 10px;
+    
+    
+}
+
+
+
+p {
+
+    color:white;
+    text-shadow: 2px 5px 5px brown;
+}
+
+    
+    
+
+    
+
+
+.img1 {
+
+    border: 5px groove brown;
+    margin:auto;
+    display:block;
+    margin-top:7px;
+   
+}
+
+
+
+
+
+
+
+
+.passaros {
+
+    background-color: rgb(40, 155, 30);
+    
+   
+
+}
+
+.tituloT {
+
+    color:rgb(39, 255, 11);
+    text-shadow: 2px 2px 3 rgb(0, 0, 0);
+    border:5px ridge rgb(21, 255, 0);
+    
+}
+
+.div-passaros {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-passaros {
+    
+    width:200px;
+    border:5px groove red;
+}
+
+
+
+
+.div-porcos {
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.img-porcos {
+    width:200px;
+    border: 4px ridge brown;
+}
+
+.p-tiriva {
+
+    color:white;
+    text-shadow:2px 5px 5px rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
